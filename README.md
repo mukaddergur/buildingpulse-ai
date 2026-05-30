@@ -254,7 +254,7 @@ Aydınlatma ve HVAC sistemi kapatılabilir.
 
 ---
 
-## 📷 Dashboard Ekran Görüntüleri
+## Dashboard Ekran Görüntüleri
 
 ### Ana Dashboard
 
