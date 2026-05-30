@@ -1,0 +1,11 @@
+
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+env/
+ml/model.pkl
+.streamlit/
+.DS_Store
+data/datatest2.txt
